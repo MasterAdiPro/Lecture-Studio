@@ -1,4 +1,8 @@
 # Lecture Studio
+Hi, 
+I am Adrian and i wanted to make a project using Manim(the 3b1b python library) and my goal was making very long and kinda hard to focus on text math/science lectures to be fun and short and like 3b1b, because i am a fan of his work. But i am very lazy and thought for a sec that i can use ai to have the lecture and then write the Manim code, and it happened to use a bg TTS,ffpmeg and many other libraries.
+REMINDER THIS IS ALL WRITTEN BY CODEX, and it's vibe-coded.
+The model in use is gpt 5.6 Luna on Medium.
 
 Local MVP for turning math/science lectures into a structured Bulgarian explainer-video workflow.
 
